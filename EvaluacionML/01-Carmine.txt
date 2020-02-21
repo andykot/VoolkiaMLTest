@@ -1,0 +1,4 @@
+Informacion del ususario:Carmine codigo:01
+id: A01 title: radio cotrol category_id: juguete-01 name: juuguetes
+id: A02 title: OneToOne category_id: Perfurme-10 name: perfumeria
+id: A03 title: Samsung S9 category_id: Electronica name: Celulares
