@@ -17,6 +17,7 @@ public class VoolkiaMain {
 		//System.out.println(ml.ususarioVerificacion("02"));
 		//ml.generarTXT("02");
 		az.mostrarRegistro();
+		ml.getVendedores().get(0).showProductbyConsole();
 		
 	}
 

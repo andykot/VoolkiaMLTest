@@ -54,8 +54,7 @@ public class Seller {
 
 			for (int i = 0; i < productos.size(); i++) {
 
-				System.out.println(productos.get(i).toString());
-
+				System.out.println(productos.get(i).mostrarDatos());
 			}
 		}
 	}
